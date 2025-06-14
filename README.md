@@ -34,3 +34,21 @@ readmitted — Indicates whether a patient was readmitted:
 NO: No readmission
 
 ## Executive Summary
+
+This project analyzes diabetes-related hospital readmissions in the U.S. from 1999 to 2008 to uncover key patterns and risk factors.
+
+11.16% of patients were readmitted within 30 days.
+
+Patients aged 70–90 had the highest readmission rates.
+
+Female patients (11.24%) were slightly more likely to be readmitted than males (11.06%).
+
+African American and Caucasian patients had the highest readmission rates by race.
+
+Heart-related conditions, especially heart attacks, were the most common reasons for readmission.
+
+Patients on Metformin with steady or increased dosage had lower readmission rates.
+
+Patients on Insulin with dosage changes (up/down) were more likely to be readmitted, suggesting more unstable conditions.
+
+## Insights
