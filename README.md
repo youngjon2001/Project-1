@@ -52,3 +52,21 @@ Patients on Metformin with steady or increased dosage had lower readmission rate
 Patients on Insulin with dosage changes (up/down) were more likely to be readmitted, suggesting more unstable conditions.
 
 ## Insights
+
+Based on the diabetes hospital readmission dataset (1999–2008), the following insights were uncovered:
+
+11.16% of patients were readmitted within 30 days of discharge.
+
+Patients aged 70–90 years had the highest likelihood of early readmission.
+
+Female patients (11.24%) were slightly more likely to be readmitted than male patients (11.06%).
+
+African American and Caucasian patients showed the highest rates of readmission among all racial groups.
+
+The most common primary diagnosis among readmitted patients was heart-related conditions, particularly heart attacks.
+
+Patients prescribed Metformin with a steady or increased dosage had lower readmission rates, suggesting better stability or effectiveness of the treatment.
+
+Patients on Insulin with dosage changes (either up or down) were more likely to be readmitted, possibly indicating more complex or unstable diabetes conditions.
+
+These insights offer a clearer understanding of the patient groups most at risk and can help improve treatment plans and reduce avoidable hospital readmissions.
